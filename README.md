@@ -1,2 +1,2 @@
-# template-repo
-Just a basic template for me.
+# knight-travails
+An exercise on the Knight Travails Problem from the Odin-Project.
